@@ -91,3 +91,4 @@ lines of codes to create the test program for it.
 # UML Design Sequence
 This includes two different UML, one for change password and the other for the foreign currency rate. It shows how requests and receives data is done.
 ![UML1](https://github.com/user-attachments/assets/35617f6b-7955-4c75-a9e2-32c6f824e6a3)
+![UML2](https://github.com/user-attachments/assets/1400f454-f8b8-4fc0-8621-b43a98da9bfb)
