@@ -88,4 +88,6 @@ Successful login! The user does exist in the database.
 Important note: When I was starting out on the microservice, it seems as though 2 out of the 3 user stories were already almost fleshed out, which were the logins and registers. I added extra
 lines of codes to create the test program for it.
 
-
+# UML Design Sequence
+This includes two different UML, one for change password and the other for the foreign currency rate. It shows how requests and receives data is done.
+![UML1](https://github.com/user-attachments/assets/35617f6b-7955-4c75-a9e2-32c6f824e6a3)
